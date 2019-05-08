@@ -40,5 +40,7 @@ public class Try {
 		 * 
 		 * @Around:»·ÈÆÔöÇ¿
 		 */
+
+		String name = "zhiangs";
 	}
 }
